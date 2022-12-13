@@ -16,4 +16,4 @@ sudo apt update -qq
 sudo apt install docker-ce
 
 # Lets check that docker is running
-docker
+docker run hello-world
